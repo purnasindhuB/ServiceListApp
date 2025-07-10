@@ -43,4 +43,44 @@ A modern iOS SwiftUI app that displays a list of service appointments with detai
 ---
 
 ## 📂 File Structure (for multi-file setup)
+📁 ServiceListApp
+├── ServiceListView.swift
+├── ServiceRowView.swift
+├── ServiceDetailView.swift
+├── ServiceListViewModel.swift
+├── SampleData.swift
+└── Utility.swift
+
+---
+
+## ✨ UI Highlights
+
+- Status badges with colored indicators
+- Top-right dot indicating status
+- Search bar with mic icon and magnifying glass
+- Clean list without disclosure arrows
+- Rounded map in detail screen
+
+---
+
+## 📦 Future Improvements
+
+- Integrate real API (currently uses mock data)
+- Add voice search functionality
+- Persist search history
+- Support dark mode
+
+---
+
+## 👨‍💻 Author
+
+**Purna Sindhu Bachu**  
+GitHub: [purnasindhuB](https://github.com/purnasindhuB)
+
+---
+
+## 📄 License
+
+This project is for demo or educational use. No license enforced.
+
 
