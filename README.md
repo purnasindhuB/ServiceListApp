@@ -13,18 +13,6 @@ A modern iOS SwiftUI app that displays a list of service appointments with detai
 - 🎨 **Modern UI** – Rounded cards, shadows, colored badges, and more
 - 🧪 **Single File Version** – Self-contained app for quick testing or submission
 
----
-
-## 📸 Screenshots
-
-| Service List | Detail View |
-|--------------|-------------|
-| ![List](./screenshots/list.png) | ![Detail](./screenshots/detail.png) |
-
-*(replace with actual screenshots or remove this section if unnecessary)*
-
----
-
 ## 🧰 Tech Stack
 
 - **Language:** Swift
