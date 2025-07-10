@@ -73,13 +73,13 @@ struct ServiceDetailView: View {
                     .foregroundColor(Color(red: 34/255, green: 90/255, blue: 158/255))
 
                 Text(label)
-                    .font(.title)
+                    .font(.subheadline)
                     .bold()
                     .foregroundColor(.black)
             }
 
             Text(value)
-                .font(.body)
+                .font(.caption)
                 .foregroundColor(.primary)
                 .fixedSize(horizontal: false, vertical: true)
         }
